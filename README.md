@@ -1,2 +1,7 @@
-# tap-training-demo
-this repo is to demonstrate on how to work on the github web console
+1.Learned about VCS
+2.Learned about LVCS
+3.Learned about cVCS
+4.Learned about DVCS
+5.Difference between CVCS and DVCS
+
+
